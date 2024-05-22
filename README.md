@@ -1,5 +1,4 @@
-# transistor_party
-NAND transistor array pcb
-
-![3d-front](./nand-array-render.png)
 # 4bit-full-adder
+discrete transistor CMOS NAND full adders
+
+![3d-front](./render.png)
